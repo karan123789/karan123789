@@ -25,7 +25,7 @@ Hi! I'm Karan Choudhary and I am currently a senior at Michigan State University
 
 **Undergraduate Learning Assistant - CSE440** • Assisting students regarding various topics within artificial intelligence ranging from reinforcement learning to machine learning.
 
-**Generative Multi-Modal CAD AI Assistant** • Building a web application with 5 teammates to generate CAD designs in FreeCAD by utilizing LLMs, exhibiting a multi-conversation interface combined with a FastAPI and MCP server connenction backend.
+**Generative Multi-Modal CAD AI Assistant** • Building a web application with 5 teammates to generate CAD designs in FreeCAD by utilizing LLMs, exhibiting a multi-conversation interface combined with a FastAPI and MCP server connection backend.
 
 ---
 
@@ -57,10 +57,8 @@ Hi! I'm Karan Choudhary and I am currently a senior at Michigan State University
 ### Developer Tools
 
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Databricks](https://img.shields.io/badge/Databricks-0d1117?style=for-the-badge&logo=databricks&logoColor=FF3621)
-![Tableau](https://img.shields.io/badge/Tableau-0d1117?style=for-the-badge&logo=tableau&logoColor=E97627)
 ![Postman](https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37)
 
 </div>
