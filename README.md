@@ -21,12 +21,6 @@ Hi! I'm Karan Choudhary and I am currently a senior at Michigan State University
 
 🟢 **Open to new grad roles regarding data, software engineering, backend, and machine learning!**
 
-## ⚡ What I'm Currently Doing
-
-**Undergraduate Learning Assistant - CSE440** • Assisting students regarding various topics within artificial intelligence ranging from reinforcement learning to machine learning.
-
-**Generative Multi-Modal CAD AI Assistant** • Building a web application with 5 teammates to generate CAD designs in FreeCAD by utilizing LLMs, exhibiting a multi-conversation interface combined with a FastAPI and MCP server connection backend.
-
 ---
 
 ## 🛠️ My Toolkit
