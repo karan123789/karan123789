@@ -2,7 +2,7 @@
 
 # Hey there, I'm Karan Choudhary 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9B63&center=true&vCenter=true&width=500&lines=CS+Senior+%40+MSU+%7C+Data%2FML+Enthusiast;Always+learning+and+growing.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9B63&center=true&vCenter=true&width=500&lines=Data%2FML+Enthusiast;Always+learning+and+growing.)](https://git.io/typing-svg)
 
 ---
 
