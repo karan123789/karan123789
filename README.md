@@ -17,7 +17,7 @@
 
 ## 👋 About Me
 
-Hi! I'm Karan Choudhary and I am currently a senior at Michigan State University pursuing a degree in computer science with a minor in cognitive science. In my free time, I enjoy using data to create a meaningful impact and diving deeps into fields such as machine learning and their impact in our lives!
+Hi! I'm Karan Choudhary and I recently graduated from Michigan State University majoring in computer science and minoring in cognitive science. In my free time, I enjoy using data to create a meaningful impact and diving deeps into fields such as machine learning and their impact in our lives!
 
 🟢 **Open to new grad roles regarding data, software engineering, backend, and machine learning!**
 
